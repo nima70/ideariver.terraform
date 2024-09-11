@@ -114,6 +114,7 @@ The infrastructure is broken down into reusable Terraform modules to enhance mod
 - SES Module: Configure AWS Simple Email Service (SES) for sending emails.
 
 **_Environment Variables_**
+
 The project leverages a terraform.config.json file for managing environment-specific variables, such as:
 
 - AWS Region
