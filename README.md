@@ -123,7 +123,8 @@ The project leverages a terraform.config.json file for managing environment-spec
 - Security group rules
 - Route53 Zone IDs
 - Email domains for SES
-  This approach allows centralization of configurations, making it easier to modify, update, and manage environments without hardcoding sensitive or environment-specific data.
+
+This approach allows centralization of configurations, making it easier to modify, update, and manage environments without hardcoding sensitive or environment-specific data.
 
 ### Security Considerations
 
