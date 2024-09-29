@@ -3,7 +3,7 @@
 Welcome to **Ideariver.terraform**, an open-source project showcasing the complete Terraform infrastructure for the **Ideariver** application. This repository serves as an example of how to manage infrastructure as code (IaC) using Terraform, with a focus on best practices, security, scalability, and modularity. The aim of this project is to demonstrate my infrastructure management skills to potential employers and collaborators.
 
 [![Watch the video](https://img.youtube.com/vi/7lbS1U30gGs/maxresdefault.jpg)](https://youtu.be/7lbS1U30gGs)
-## [Watch the video](https://youtu.be/7lbS1U30gGs)
+### [Watch the full video on YouTube](https://youtu.be/7lbS1U30gGs)
 
 ## Overview
 
